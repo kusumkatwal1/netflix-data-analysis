@@ -12,6 +12,7 @@ Data analytics project focused on cleaning, analyzing, and visualizing Netflix c
 ## Tools
   - Jupyter Notebook
   - GitHub
+  - SQL
     
 ## Project Structure
   - README.md - _explaining briefly about the project_

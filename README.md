@@ -16,6 +16,7 @@ Data analytics project focused on cleaning, analyzing, and visualizing Netflix c
     
 ## Project Structure
   - README.md - _explaining briefly about the project_
+  - data - contains credit and title data
 
 
 

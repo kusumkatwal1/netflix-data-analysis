@@ -19,6 +19,20 @@ The dataset includes Netflix title information and actor/director credits.
   - Python
   - Spark DataFrames
   - GitHub
+
+## Project Workflow
+    - Uploaded Netflix datasets into Databricks
+    - Loaded data using Spark tables
+    - Explored schema, columns, and row counts
+    - Removed duplicate records
+    - Handled missing values
+    - Analyzed movies vs TV shows
+    - Explored the highest-rated Netflix titles
+    - Analyzed release year trends
+    - Identified top actors and directors
+    - Performed joins between titles and credits
+    - Used SQL queries for relational analysis
+    - Documented insights and conclusions
     
 ## Project Structure
   - README.md - _explaining briefly about the project_

@@ -35,14 +35,14 @@ The dataset includes Netflix title information and actor/director credits.
     - Documented insights and conclusions
 
 ## Key Analysis Performed
-    Movies vs TV shows distribution
-    Highest IMDb-rated titles
-    Release year trend analysis
-    Most frequent actors
-    Most frequent directors
-    Actor/title relationship analysis
-    Director average IMDb score analysis
-    SQL join analysis using cleaned temporary views
+    - Movies vs TV shows distribution
+    - Highest IMDb-rated titles
+    - Release year trend analysis
+    - Most frequent actors
+    - Most frequent directors
+    - Actor/title relationship analysis
+    - Director average IMDb score analysis
+    - SQL join analysis using cleaned temporary views
     
 ## Project Structure
   - **README.md** - _explaining briefly about the project_

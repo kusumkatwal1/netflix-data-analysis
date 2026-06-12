@@ -20,6 +20,9 @@ The dataset includes Netflix title information and actor/director credits.
   - Spark DataFrames
   - GitHub
 
+## Dataset
+The project uses two related datasets:
+
 ## Project Workflow
     - Uploaded Netflix datasets into Databricks
     - Loaded data using Spark tables

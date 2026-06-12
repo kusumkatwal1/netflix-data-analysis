@@ -25,11 +25,11 @@ The dataset includes Netflix title information and actor/director credits.
 
     **1. titles**
         - Contains Netflix content information such as:
-            (title/type/release year/runtime/genres/IMDb score/IMDb votes/TMDB popularity)
+          (title/type/release year/runtime/genres/IMDb score/IMDb votes/TMDB popularity)
   
     **2. credits**
         - Contains actor and director information, such as:
-              (person ID/title ID/name/character/role)
+          (person ID/title ID/name/character/role)
       
 ## Project Workflow
     - Uploaded Netflix datasets into Databricks

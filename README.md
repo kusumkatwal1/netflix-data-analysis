@@ -21,10 +21,10 @@ The dataset includes Netflix title information and actor/director credits.
   - GitHub
 
 ## Dataset
-The project uses two related datasets:
-** 1. titles**
-    - Contains Netflix content information such as:
-    title/type/release year/runtime/genres/IMDb score/IMDb votes/TMDB popularity
+~ The project uses two related datasets:
+    ** 1. titles**
+        - Contains Netflix content information such as:
+        title/type/release year/runtime/genres/IMDb score/IMDb votes/TMDB popularity
 
 ## Project Workflow
     - Uploaded Netflix datasets into Databricks

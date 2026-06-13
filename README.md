@@ -60,6 +60,9 @@ The dataset includes Netflix title information and actor/director credits.
 ## Key Insights
 Movies make up a large portion of Netflix content.
 IMDb scores help identify highly rated Netflix titles.
+Release year analysis shows content growth patterns over time.
+Actor and director analysis reveals frequently appearing contributors.
+Joining titles and credits provides deeper relational insights.
     
 ## Project Structure
   - **README.md** - _explaining briefly about the project_

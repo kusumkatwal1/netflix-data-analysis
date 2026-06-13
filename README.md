@@ -63,6 +63,8 @@ The dataset includes Netflix title information and actor/director credits.
     - Release year analysis shows content growth patterns over time.
     - Actor and director analysis reveals frequently appearing contributors.
     - Joining titles and credits provides deeper relational insights.
+
+## Skills
     
 ## Project Structure
   - **README.md** - _explaining briefly about the project_

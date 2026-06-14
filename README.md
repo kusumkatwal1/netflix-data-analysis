@@ -65,6 +65,8 @@ The dataset includes Netflix title information and actor/director credits.
     - Joining titles and credits provides deeper relational insights.
 
 ## Skills
+Databricks notebook workflow
+PySpark data processing
     
 ## Project Structure
   - **README.md** - _explaining briefly about the project_

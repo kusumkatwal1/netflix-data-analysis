@@ -67,6 +67,11 @@ The dataset includes Netflix title information and actor/director credits.
 ## Skills
 Databricks notebook workflow
 PySpark data processing
+Data cleaning
+Exploratory data analysis
+SQL querying
+SQL joins
+
     
 ## Project Structure
   - **README.md** - _explaining briefly about the project_

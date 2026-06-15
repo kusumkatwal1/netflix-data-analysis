@@ -73,7 +73,7 @@ The dataset includes Netflix title information and actor/director credits.
     - SQL joins
     - Relational dataset analysis
     - Debugging real-world data issues
-    - GitHub project documentation
+    - GitHub 
 
     
 ## Project Structure

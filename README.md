@@ -77,7 +77,7 @@ The dataset includes Netflix title information and actor/director credits.
 
     
 ## Project Structure
-      - "README.md": Explaining briefly about the project
+      - **"README.md"**: Explaining briefly about the project
       - "data": This is a folder containing credit and title data files
       - "netflix_titles_credits_analysis.ipynb": This file contains the exact project details
 
